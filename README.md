@@ -1,0 +1,2 @@
+# NewspaperWeb
+My blog template.
